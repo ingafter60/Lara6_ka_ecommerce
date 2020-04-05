@@ -20,6 +20,12 @@
 Section 6: Theme Admin Panel Customization
 
 52. Admin Panel Customization Part 1
+> - change the admin dasbord template
+> - in public create backend folder
+> - add asset for admin dashboard to public/backend folder
+> - customize the css, js and image links
+
+
 53. Admin Panel Customization Part 2
 54. Admin Panel Customization Part 3
 55. Setup Admin Password Change Option
